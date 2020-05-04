@@ -1,5 +1,5 @@
-# webp2gif
-convert animated webp to gif
+# webp2base
+convert animated webp to jpeg/gif
 
 ### Prerequisites
 
@@ -16,8 +16,8 @@ convert animated webp to gif
 ### Usage
 
 ```
-$ wget https://git.io/webp2gif && chmod +x webp2gif
+$ wget https://raw.githubusercontent.com/alexartwww/webp2base/master/webp2base -o /usr/bin/webp2base && chmod +x /usr/bin/webp2base
 
-$ ./webp2gif input.webp output.gif
+$ webp2base input.webp
 ```
 
