@@ -16,7 +16,7 @@ convert animated webp to jpeg/gif
 ### Usage
 
 ```
-$ wget https://raw.githubusercontent.com/alexartwww/webp2base/master/webp2base -o /usr/bin/webp2base && chmod +x /usr/bin/webp2base
+$ wget https://raw.githubusercontent.com/alexartwww/webp2base/master/webp2base -O /usr/bin/webp2base && chmod +x /usr/bin/webp2base
 
 $ webp2base input.webp
 ```
